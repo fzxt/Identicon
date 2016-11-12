@@ -15,6 +15,6 @@ iex > Identicon.main("John")
 
 ### Output
 
-Hopefully the program will have generated a 250x250 image.
+Hopefully the program will have generated a 250x250 image titled "Johh.png" in the root of the projects directory.
 
 ![Example output](./output/John.png)
