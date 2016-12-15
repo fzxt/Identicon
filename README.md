@@ -2,6 +2,9 @@
 
 Program that generates github-esque icon based on a string.
 
+## Requirements
+You will need to install and set up [Elixir](http://elixir-lang.org/install.html)
+
 ## Usage
 
 ### Input
@@ -15,6 +18,6 @@ iex > Identicon.main("John")
 
 ### Output
 
-Hopefully the program will have generated a 250x250 image titled "Johh.png" in the root of the projects directory.
+Hopefully the program will have generated a 250x250 image titled "John.png" in the root of the projects directory.
 
 ![Example output](./output/John.png)
